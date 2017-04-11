@@ -11,3 +11,7 @@
  Tags:         news
  Text Domain:  Newspaper-child
 */
+
+.electricas_box_list li{
+	text-transform: uppercase;
+}
