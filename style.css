@@ -12,6 +12,27 @@
  Text Domain:  Newspaper-child
 */
 
-.electricas_box_list li{
-	text-transform: uppercase;
+.electricas_box_list li {
+    text-transform: uppercase;
+}
+
+.mobile_ad {
+    display: none;
+    visibility: hidden;
+}
+
+.sidebar_ad {
+    display: block;
+    visibility: visible;
+}
+
+@media only screen and (max-width: 767px) {
+    .mobile_ad {
+        display: block;
+        visibility: visible;
+    }
+    .sidebar_ad {
+        display: none !important;
+        visibility: hidden !important;
+    }
 }
