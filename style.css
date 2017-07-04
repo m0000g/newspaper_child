@@ -36,3 +36,55 @@
         visibility: hidden !important;
     }
 }
+
+.cdp-cookies-alerta.cdp-cookies-tema-gris .cdp-cookies-texto a:hover,
+.cdp-cookies-alerta.cdp-cookies-tema-gris .cdp-cookies-texto a:active,
+.cdp-cookies-alerta.cdp-cookies-tema-gris .cdp-cookies-texto a:visited {
+    color: #4db2ec !important;
+}
+
+.cdp-cookies-alerta.cdp-cookies-tema-gris .cdp-cookies-texto a:hover,
+.cdp-cookies-alerta.cdp-cookies-tema-gris .cdp-cookies-texto a:active,
+.cdp-cookies-alerta.cdp-cookies-tema-gris .cdp-cookies-texto a:visited {
+    color: #4db2ec !important;
+}
+
+.cdp-cookies-alerta.cdp-cookies-tema-gris .cdp-cookies-texto a:hover,
+.cdp-cookies-alerta.cdp-cookies-tema-gris .cdp-cookies-texto a:active,
+.cdp-cookies-alerta.cdp-cookies-tema-gris .cdp-cookies-texto a:visited {
+    color: #4db2ec !important;
+}
+
+.cdp-cookies-alerta.cdp-cookies-tema-gris .cdp-cookies-texto a {
+    color: #4db2ec !important;
+}
+
+.cdp-cookies-alerta .cdp-cookies-texto a:hover,
+.cdp-cookies-alerta .cdp-cookies-texto a:active,
+.cdp-cookies-alerta .cdp-cookies-texto a:visited {
+    color: #4db2ec !important;
+}
+
+.cdp-cookies-alerta.cdp-cookies-tema-gris .cdp-cookies-boton-cerrar:hover {
+    background-color: #000;
+}
+
+.cdp-cookies-alerta.cdp-cookies-tema-gris .cdp-cookies-texto p {
+    font-size: 0.9rem;
+    line-height: 1.5rem;
+}
+
+.cdp-cookies-alerta .cdp-cookies-texto a {
+    font-size: 0.9rem;
+    line-height: 1.5rem;
+}
+
+.cdp-cookies-boton-creditos {
+    display: none;
+}
+
+.cdp-cookies-boton-cerrar {
+    line-height: 2.5rem !important;
+    min-width: 150px;
+    height: 2.5rem;
+}
