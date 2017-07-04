@@ -36,3 +36,10 @@ function add_file_types_to_uploads($file_types){
     return $file_types;
 }
 add_action('upload_mimes', 'add_file_types_to_uploads');
+
+
+/* Remove Visual composer link from main menu */
+function custom_menu_page_removing() {
+    remove_menu_page('vc-welcome'); //vc
+}
+add_action( 'admin_menu', 'custom_menu_page_removing' );
